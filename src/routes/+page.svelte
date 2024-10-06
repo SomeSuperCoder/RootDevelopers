@@ -22,12 +22,11 @@
         <div class="circle-2 fixed w-[15vw] h-[15vw] top-[50vh] left-[50vw] rounded-full bg-purple-400 opacity-50 -z-10"></div>
         <div class="circle-3 fixed w-[15vw] h-[15vw] top-[70vh] left-[70vw] rounded-full bg-purple-800 opacity-50 -z-10"></div>
         <div class="circle-4 fixed w-[15vw] h-[15vw] top-[30vh] left-[65vw] rounded-full bg-green-500 opacity-50 -z-10"></div>
-        <div></div>
     </main>
     
     <footer class="fixed bottom-0 px-4">
         &copy; 2024 Root Developers. All rights reserved.
-    </footer>    
+    </footer>
 </div>
 
 <style>
